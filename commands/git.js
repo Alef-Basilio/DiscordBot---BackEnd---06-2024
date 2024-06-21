@@ -9,7 +9,7 @@ const exampleEmbed = new EmbedBuilder()
 	.setDescription('Ceará, a northeastern Brazilian state, has a mountainous interior and an Atlantic coastline with impressive red cliffs.')
 	.setThumbnail('https://i.imgur.com/AfFp7pu.png')
 	.addFields(
-		{ name: 'Ceará', value: 'Ceará is one of the 27 federative units in Brazil.'},
+		{ name: 'Ceará', value: 'Ceará is one of the 27 federative units in Brazil.' },
 		{ name: '\u200B', value: '\u200B' },
 		{ name: 'Balneário de Canoa Quebrada', value: 'It has huge pink sand dunes and Rua Dragão do Mar, very busy and also known as Broadway.', inline: true },
 		{ name: 'The isolated city of Jericoacoara', value: 'Surrounded by the Jericoacoara National Park, full of dunes, it is famous for its sandy streets, windsurfing and unusual sunsets in shades of green.', 

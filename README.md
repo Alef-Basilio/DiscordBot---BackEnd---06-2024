@@ -25,7 +25,7 @@ Topics:
 
 <p align="center">
   <p>
-    <img src="./public/assets/images/interface.png" width="100%">
+    <img src="./assets/interface.png" width="100%">
   </p>
 </p>
 
