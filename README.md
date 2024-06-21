@@ -1,4 +1,4 @@
-<h2 align="center">Deploy link:</h2>
+<h2 align="center">Link:</h2>
 
 @[Video on YouTube](https://www.youtube.com/watch?v=IoSifWHSLM4)
 </br>
