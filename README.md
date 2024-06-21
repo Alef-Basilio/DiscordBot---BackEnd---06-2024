@@ -42,7 +42,7 @@ Isn't hosted because I'm not paying any service. Although you can see the video,
 </br>
 I searched for examples of how to make but I ending doing my own bot.
 </br>
-Read the Discord.js document was really important to config the bot's messages.
+Read the Discord.js documents was really important to config the bot's messages.
 
 
 <h2 id="obj" align="center">Objective</h2>
