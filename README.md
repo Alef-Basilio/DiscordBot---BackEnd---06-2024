@@ -1,9 +1,10 @@
 <h2 align="center">Deploy link:</h2>
 
-@[Product Online Store](https://alef-basilio.github.io/E-commerce---FrontEnd/)
+@[Video on YouTube](https://www.youtube.com/watch?v=IoSifWHSLM4)
+Isn't hosted because I'm not paying any service. Although you can see the video, archives and README.
 
 ```
-https://alef-basilio.github.io/E-commerce---FrontEnd/
+https://www.youtube.com/watch?v=IoSifWHSLM4
 ```
 
 
@@ -36,7 +37,7 @@ Discord.js.
 
 
 <h2 id="how" align="center">How was made</h2>
-Isn't hosted because I'm not paying any service. Although you can see the archives and the README.
+Isn't hosted because I'm not paying any service. Although you can see the video, archives and README.
 </br>
 I searched for examples of how to make but I ending doing my own bot.
 </br>
