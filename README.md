@@ -17,7 +17,7 @@ Topics:
 
 
 <p align="center">
-<b>An e-commerce where the user can browse the home page and see the products.</b>
+<b>A Discord bot for with commands through the "/".</b>
 </p>
 
 
@@ -29,19 +29,19 @@ Topics:
 
 
 <h2 id="tech" align="center">Technologies</h2>
-HTML, CSS and JavaScript.
+JavaScript and Node.js.
 
-### API:
-Fake Store Api.
+### Library:
+Discord.js.
 
 
 <h2 id="how" align="center">How was made</h2>
-I was inspired by common things in the interface of other e-commerces and aimed to standardize the code for easy reading through order patterns, also using naming methods for functions, classes and files.
+Isn't hosted because I'm not paying any service. Although you can see the archives and the README.
 </br>
-I made a class in the API fetch trying to make it easier to use later, but I didn't follow SOLID's Single Responsibility Principle, although it really made it easier.
+I searched for examples of how to make but I ending doing my own bot.
 </br>
-All elements was responsive since from creation for all different devices.
+Read the Discord.js's document was really important to config the bot's messages.
 
 
 <h2 id="obj" align="center">Objective</h2>
-Understand how different technologies (JS, Git, etc.) and concepts are combined into the same application.
+To demonstrate my knowledge with Node.js and NPM.
