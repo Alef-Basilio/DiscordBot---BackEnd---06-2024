@@ -17,7 +17,7 @@ Topics:
 
 
 <p align="center">
-<b>A Discord bot for with commands through the "/".</b>
+<b>A Discord's bot with commands through the "/".</b>
 </p>
 
 
