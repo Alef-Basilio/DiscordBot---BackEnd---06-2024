@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=IoSifWHSLM4
 ```
 
 
-<h1 align="center" style="color: #805ad5; font-weight: bold;">Product Online Store</h1>
+  <h1 align="center" style="color: #805ad5; font-weight: bold;">Bot Exercise</h1>
 <p align="center">
 Topics: 
 <a href="#tech">Technolgies</a> |
