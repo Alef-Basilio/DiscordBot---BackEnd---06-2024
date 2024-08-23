@@ -31,7 +31,7 @@ Topics:
 
 
 <h2 id="tech" align="center">Technologies</h2>
-JavaScript and Node.js.
+Node.js and JavaScript.
 
 ### Library:
 Discord.js.
