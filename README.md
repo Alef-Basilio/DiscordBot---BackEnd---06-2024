@@ -25,7 +25,7 @@ Topics:
 
 <p align="center">
   <p align="center">
-    <img src="./assets/interface.png" height="480px">
+    <img alt="Error: reload the page to see the image" src="./assets/interface.png" height="480px">
   </p>
 </p>
 
